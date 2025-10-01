@@ -33,28 +33,20 @@ A smart question-answering chatbot that reads your Word document and answers que
    # The notebook will automatically install all required packages
    # Just run all cells sequentially
 
+
 Upload Your Document:
 
-     When prompted, upload your Word file (.docx). The system will process it automatically.
+When prompted, upload your Word file (.docx). The system will process it automatically.
 
-     Start Asking Questions:
- 
+Start Asking Questions:
+
 A web interface will open
 
-    Type your questions and get instant answers!
+Type your questions and get instant answers!
 
 Local Installation
+ <img width="666" height="229" alt="image" src="https://github.com/user-attachments/assets/8ff07d8d-906e-4270-ac30-123e4a0f1ba2" />
 
-
-# Clone the repository
-git clone https://github.com/your-username/class5-english-chatbot.git
-cd class5-english-chatbot
-
-# Install required packages
-pip install python-docx transformers sentence-transformers faiss-cpu gradio
-
-# Run the notebook or Python script
-jupyter notebook chatbot_class_five_english_book.ipynb
 
 Usage Examples
 
@@ -66,13 +58,8 @@ Factual Questions: "When was the company founded?"
 
 Descriptive Questions: "What does the magical garden look like?"
 
-Example Interaction:
 
-You: What did Tim Cook study in college?
-Bot: He studied industrial engineering at Auburn University.
-
-You: When did he become CEO of Apple?
-Bot: Tim Cook became CEO of Apple in August 2011.
+<img width="656" height="159" alt="image" src="https://github.com/user-attachments/assets/031fb317-c72c-446a-9708-305188350a53" />
 
 Features
 
@@ -105,37 +92,32 @@ Hugging Face Transformers: Question-answering AI model
 Gradio: Web interface development
 
 Project Structure
-###
-chatbot/
-│
-├── DocumentBaseAnswerGiven_chatbot.ipynb  # Main notebook
-├── requirements.txt                       # Python dependencies
-├── README.md                              # This file
-└── examples/
-    └── sample_textbook.docx               # Example document
 
-###
+
+<img width="656" height="183" alt="image" src="https://github.com/user-attachments/assets/666f2d22-93dc-4109-b71e-3e411fc45702" />
+
+
 Limitations & Notes
 
-Works best with well-structured, factual content
+     Works best with well-structured, factual content
 
-Answer quality depends on how clearly the information is presented
+    Answer quality depends on how clearly the information is presented
 
-May not perform well with very complex or ambiguous questions
+    May not perform well with very complex or ambiguous questions
 
-First run will download AI models (~300MB)
+    First run will download AI models (~300MB)
 
 Contributing
 
-Feel free to contribute:
+    Feel free to contribute:
 
-Add support for more file formats (PDF, TXT)
+    Add support for more file formats (PDF, TXT)
 
-Improve the user interface
+    Improve the user interface
 
-Enhance the answer quality
+    Enhance the answer quality
 
-Add more language support
+    Add more language support
 
 License
 
@@ -143,12 +125,15 @@ MIT License
 
 Get Help
 
-Ensure your Word file is not corrupted
+    Ensure your Word file is not corrupted
 
-Ensure all dependencies are properly installed
+    Ensure all dependencies are properly installed
 
-Try rephrasing your questions more clearly
+    Try rephrasing your questions more clearly
 
 About the Developer
 
-This project was created to help students learn more effectively by making textbook content easily accessible through natural conversation.
+    This project was created to help students learn more effectively by making textbook content easily accessible   through natural conversation.
+
+
+
