@@ -34,7 +34,7 @@ A smart question-answering chatbot that reads your Word document and answers que
 # Run all cells sequentially
 
 
-💡 Usage Examples
+#💡 Usage Examples
 
 Character Questions: "Who is the main character in the story?"
 
@@ -44,7 +44,9 @@ Factual Questions: "When was the company founded?"
 
 Descriptive Questions: "What does the magical garden look like?"
 
-🚀 Features
+
+
+# 🚀 Features
 
 Document Intelligence: Understands context from your specific document.
 
@@ -56,13 +58,16 @@ Web Interface: User-friendly Gradio interface.
 
 Free to Use: Built with open-source technologies.
 
-📂 Supported File Formats
+
+
+# 📂 Supported File Formats
 
 Microsoft Word Documents (.docx)
 
 Currently supports Word format only (other formats coming soon)
 
-🖥️ Technology Stack
+
+# 🖥️ Technology Stack
 
 python-docx: Document reading and processing
 
@@ -82,7 +87,7 @@ DocumentBaseAnswerGiven_chatbot/
 ├── requirements.docx
 └── sample_documents
 
-⚠️ Limitations & Notes
+# ⚠️ Limitations & Notes
 
 Works best with well-structured, factual content.
 
@@ -92,7 +97,7 @@ May not perform well with very complex or ambiguous questions.
 
 First run will download AI models (~300MB).
 
-🤝 Contributing
+# 🤝 Contributing
 
 Feel free to contribute:
 
@@ -106,7 +111,7 @@ Add more language support
 
 
 
-🆘 Get Help
+# 🆘 Get Help
 
 Ensure your Word file is not corrupted.
 
@@ -114,7 +119,7 @@ Ensure all dependencies are properly installed.
 
 Try rephrasing your questions more clearly.
 
-👨‍💻 About the Developer
+# 👨‍💻 About the Developer
 
 This project was created to help students learn more effectively by making textbook content easily accessible through natural conversation.
 
